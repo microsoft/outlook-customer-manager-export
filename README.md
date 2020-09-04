@@ -1,3 +1,12 @@
+# Outlook Customer Manager Export
+
+This script will export or purge all of the data for an OCM user. The export results will be stored in a subfolder of the folder in which the script is located. The folder name will be consist of the email address of the logged in user and the date/time of when the script was run.
+
+For more details, visit [https://go.microsoft.com/fwlink/?linkid=2107264](https://go.microsoft.com/fwlink/?linkid=2107264)
+
+# Trademarks
+
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow Microsoft's Trademark & Brand Guidelines. Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship. Any use of third-party trademarks or logos are subject to those third-party's policies.
 
 # Contributing
 
